@@ -128,3 +128,7 @@ final kCard = BoxDecoration(
 
 final ktextFildDecoration = InputDecoration(
     border: OutlineInputBorder(borderRadius: BorderRadius.circular(15)));
+
+final kListtile=Listtile(
+    leading:Text("SKShiboo")
+);
